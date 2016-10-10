@@ -43,5 +43,6 @@ Show me what you created! I wanna seee!
 
 
 **Free Template Get!**
-(https://s-media-cache-ak0.pinimg.com/originals/dc/02/b2/dc02b274f7b9d2f55bb7dcb32c887042.png)
-(can't believe you read this far.. seriously.
+![Unicorn!](https://s-media-cache-ak0.pinimg.com/originals/dc/02/b2/dc02b274f7b9d2f55bb7dcb32c887042.png)
+
+can't believe you read this far.. seriously.
