@@ -1,6 +1,7 @@
 > When in doubt. Refesh
 > \- Neen
 
+:sparkling_heart::sparkling_heart::sparkling_heart:
 # Neen's HTML-5 Template!
 
 This is an Boilerplate template that includes all the necessary data in the header section because I got tired of typing it every damn time.
