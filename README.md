@@ -9,11 +9,12 @@ This template includes the ff files:
 
   - index.html
   - style.css
+  - script.js
   - folder structure for ready folder copy pasting.
 
 ### Features:
 ----
- - Organized sections in the <head>
+ - Organized sections in the head. 
  - CSS has media queries ready for responsive development!  and a debug class for checking where those pesky paddings went. 
  - JS src at the bottom. 
 
