@@ -16,13 +16,13 @@ This template includes the ff files:
 
 ### The Template:
 
-![template](http://i.imgur.com/dgX3PP2.png)
+![template](http://i.imgur.com/gisSxnU.png)
 
 ### Features:
 ----
- - Organized sections in the head. 
- - CSS has media queries ready for responsive development!  and a debug class for checking where those pesky paddings went. 
- - JS src at the bottom. 
+ - Organized sections in the head.
+ - CSS has media queries ready for responsive development!  and a debug class for checking where those pesky paddings went.
+ - JS src at the bottom.
 
 ### Libraries:
 ----
