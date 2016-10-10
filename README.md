@@ -1,6 +1,5 @@
 ![headimg](http://i.imgur.com/3Dvk1Ap.png)
 
-:sparkling_heart::sparkling_heart::sparkling_heart:
 # Neen's HTML-5 Template
 
 > When in doubt. Refesh
@@ -14,6 +13,10 @@ This template includes the ff files:
   - style.css
   - script.js
   - folder structure for ready folder copy pasting.
+
+### The Template:
+
+![template](http://i.imgur.com/dgX3PP2.png)
 
 ### Features:
 ----
