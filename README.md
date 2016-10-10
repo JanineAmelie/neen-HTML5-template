@@ -1,10 +1,12 @@
-> When in doubt. Refesh
-> \- Neen
+![headimg](http://i.imgur.com/3Dvk1Ap.png)
 
 :sparkling_heart::sparkling_heart::sparkling_heart:
-# Neen's HTML-5 Template!
+# Neen's HTML-5 Template
 
-This is an Boilerplate template that includes all the necessary data in the header section because I got tired of typing it every damn time.
+> When in doubt. Refesh
+-Neen
+
+This is an Boilerplate template that includes all the necessary data in the header section because I got tired of typing the same crap  every damn time.
 
 This template includes the ff files:
 
