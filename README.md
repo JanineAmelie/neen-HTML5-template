@@ -6,7 +6,7 @@
 > When in doubt. Refesh
 -Neen
 
-This is an Boilerplate template that includes all the necessary data in the header section because I got tired of typing the same crap  every damn time.
+This is a Boilerplate template that includes all the necessary data in the header section because I got tired of typing the same crap  every damn time.
 
 This template includes the ff files:
 
